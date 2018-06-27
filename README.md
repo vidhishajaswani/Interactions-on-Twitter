@@ -7,7 +7,9 @@
 ## Dataset Used
 * https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/data
 
-##Results
+
+## Results
+
 * Number of nodes: 1172
 * Number of edges: 5107
 * Clustering coefficient: 0.1535
